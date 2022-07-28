@@ -1,6 +1,6 @@
-![Screenshot (6)](https://user-images.githubusercontent.com/109127651/179726013-678a66a7-9658-405a-bbc4-3181e5914671.png)
-# react-project
-![image](https://user-images.githubusercontent.com/109127651/179725727-61081d25-23df-452c-a065-08acbb838456.png)
-
-![Screenshot (3)](https://user-images.githubusercontent.com/109127651/179725757-65419c75-f6de-4abf-9293-53fe78cd91a5.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/109127651/179726023-322db01a-d9a8-4311-8b96-b71b50ce7bcb.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/109127651/181514198-a03b322a-eafa-4f6e-9002-ecd082ea67b5.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/109127651/181514205-8e5991c3-6999-433c-8576-b6b5befe8b4f.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/109127651/181514214-4eb7ddc8-4581-40be-aa6f-ede317a4a201.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/109127651/181514224-8d8faf80-2b93-4d60-9146-0018d3cf29e0.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/109127651/181514225-091bbe04-eed6-4030-b3c2-1020d3156bb9.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/109127651/181514226-a5f65698-56cf-416c-817f-7273508da1a2.png)
