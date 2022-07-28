@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
-import Navbar from "./Navbar";
+
 
 const Login = () => {
   let history = useNavigate();
@@ -19,7 +19,13 @@ const Login = () => {
 
   return (
     <div>
-      <Navbar/>
+      <div className="cart-container">
+    <nav className="navbar navbar-light bg-light">
+        <a className="navbar-brand " href="/">
+          ShopHere
+        </a>
+        </nav>
+        </div>
       <form action="" onSubmit={handleSubmit}>
       <section className="vh-100">
         <div className="container py-5 h-100">

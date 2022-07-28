@@ -1,8 +1,15 @@
 import React from "react";
 import Carousel from 'react-bootstrap/Carousel';
 const Product = ({ values, handleProduct }) => {
+
+  
   return (
     <>
+    <nav className="navbar navbar-light bg-light">
+        <a className="navbar-brand " href="/">
+          ShopHere
+        </a>
+</nav>
     <Carousel >
     <Carousel.Item>
       <img
@@ -37,7 +44,7 @@ const Product = ({ values, handleProduct }) => {
           <p> {values.description}</p>
           
         </div>
-      
+        
     </>
   );
 };
